@@ -342,7 +342,6 @@ footer{
     border: 2px solid black;
     width: 322px;
     height: 500px;
-    background-image: url(./img/imagen1.jpg);
     
 }
 
@@ -350,13 +349,11 @@ footer{
     border: 2px solid black;
     width: 322px;
     height: 500px;
-    background-image: url(./img/imagen2.jpg);
 }
 
 .imagen3{
     border: 2px solid black;
     width: 500px;
     height: 500px;
-    background-image: url(./img/imagen3.jpg);
 }
 
