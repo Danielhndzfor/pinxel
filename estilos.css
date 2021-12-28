@@ -385,8 +385,10 @@ footer{
     text-align: center;
 }
 
+
 .text1{
     grid-column: -1/1;
+    padding: 20px;
 }
 
 .i1{
@@ -414,5 +416,13 @@ footer{
 
 .i6{
     grid-column: -1/1;
+}
+
+textarea{
+	border:1px solid #f6f6f6;
+	border-radius:5px;
+	background-color:#f6f6f6;			
+	/*resize: vertical | horizontal | none | both*/
+	resize:both;
 }
 
